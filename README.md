@@ -11,3 +11,7 @@ Javascript based snow animation
 <!-- Set up a target to animate -->
 <div class="animate-snow" style="background: black;">Hello world!</div>
 ```
+
+## Quick start
+
+Demo: <https://alex-yashin.ru>
